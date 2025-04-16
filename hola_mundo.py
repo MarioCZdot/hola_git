@@ -1,1 +1,1 @@
-print("¡Hola Mundo con Git y control de versiones2!")
+print("¡Hola Mundo gestionado con GitHub Desktop!")
